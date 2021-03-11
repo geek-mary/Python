@@ -5,6 +5,7 @@
       <mapping pattern="gitignore" type="GitIgnore file" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="pickle" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
     </extensionMap>
   </component>
