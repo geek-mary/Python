@@ -4,6 +4,10 @@
     <extensionMap>
       <mapping pattern="suda" type="AUTO_DETECTED" />
       <mapping pattern="gitignore" type="GitIgnore file" />
+      <mapping ext="xlsx" type="MyNative" />
+      <mapping ext="xls" type="MyNative" />
+      <removed_mapping ext="xlsx" type="Native" />
+      <removed_mapping ext="xls" type="Native" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
