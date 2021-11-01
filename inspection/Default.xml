@@ -4,6 +4,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="random.random.randint" />
+        <option value="telegram_admin.user_menu.management.commands.bot.user_menu" />
       </list>
     </option>
   </inspection_tool>
