@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/MyHaker/Python" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/androidKirill/Third.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Luminiferous\PycharmProjects" />
