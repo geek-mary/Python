@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="pickleFile" type="AUTO_DETECTED" />
       <mapping pattern="suda" type="AUTO_DETECTED" />
+      <mapping ext="sqlite" type="DBN-SQL" />
       <mapping ext="sqlite3" type="DBN-SQL" />
       <mapping pattern="gitignore" type="GitIgnore file" />
       <mapping ext="bak" type="PLAIN_TEXT" />
