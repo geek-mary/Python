@@ -12,8 +12,6 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
-      <removed_mapping ext="xls" approved="true" type="Native" />
-      <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping pattern=".gitignore" approved="true" type="GitIgnore file" />
     </extensionMap>
   </component>
