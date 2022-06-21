@@ -7,15 +7,13 @@
       <mapping ext="sqlite" type="DBN-SQL" />
       <mapping ext="sqlite3" type="DBN-SQL" />
       <mapping pattern="gitignore" type="GitIgnore file" />
-      <mapping ext="xlsx" type="MyNativeFile" />
-      <mapping ext="xls" type="MyNativeFile" />
-      <removed_mapping ext="xlsx" type="Native" />
-      <removed_mapping ext="xls" type="Native" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping pattern=".gitignore" approved="true" type="GitIgnore file" />
     </extensionMap>
   </component>
